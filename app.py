@@ -12,7 +12,7 @@ def home():
     </head>
     <body>
         <h1>MY NEW PYTHON OUTPUT</h1>
-        <h1>PYTHON FREESTYLE PROJECT</h1>
+        
         <h2>Jenkins Build Successful</h2>
         <p>This website is running using Python Flask.</p>
         <p>GitHub → Jenkins → Python</p>
